@@ -1,7 +1,5 @@
 # Realisation-d-une-etude-de-sante-publique-avec-Python
-### Exploration et analyse de donnees
-### Data visualisation
-### Présentation powerpoint des résultats obtenus
+### Exploration et analyse de donnees / Data visualisation / Présentation powerpoint des résultats obtenus
 ##### Dans ce projet, j'étais data analyst pour l'un des organes de l'ONU la "Food and Agriculture Organization of the United Nations".
 ##### L'objectif était de réaliser une étude de grande ampleur sur l'alimentation dans le monde.
 ##### Pour répondre à la demande, j'ai dans un premier temps importé les données sur Pyhton, puis je les ai explorées et nettoyées afin d'avoir une base de données complète et de qualité.
